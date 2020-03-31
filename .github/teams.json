@@ -1,0 +1,23 @@
+{
+  "Foo": {
+    "some": "metadata",
+    "members": [
+      {
+        "name": "Blah Blah",
+        "github": "rmacklin"
+      },
+      {
+        "name": "Place Holder",
+        "github": "rmacklin-dev"
+      }
+    ]
+  },
+  "Bar Baz": {
+    "members": [
+      {
+        "name": "Place Holder",
+        "github": "rmacklin-dev"
+      }
+    ]
+  }
+}
