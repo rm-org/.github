@@ -1,0 +1,15 @@
+name: "Team Synchronizer"
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/teams.json'
+
+jobs:
+  synchronize-teams:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: rmacklin/team-synchronizer@v1
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
