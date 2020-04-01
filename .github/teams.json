@@ -1,6 +1,7 @@
 {
   "Foo": {
     "some": "metadata",
+    "description": "first!!! team",
     "members": [
       {
         "name": "Blah Blah",
@@ -13,7 +14,7 @@
     ]
   },
   "Bar Baz": {
-    "description": "The bazziest bar in the whole town",
+    "description": "The bazziest devops bar in the whole town",
     "members": [
       {
         "name": "Place Holder",
