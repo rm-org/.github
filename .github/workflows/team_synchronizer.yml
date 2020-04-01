@@ -16,4 +16,4 @@ jobs:
     # temporarily pull the action from here:
     - uses: rmacklin-dev/pr-labeler@47cbfce62552d8c908612f94d57b761999862f52
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        repo-token: "${{ secrets.ORG_WRITE_ACCESS_TOKEN }}"
