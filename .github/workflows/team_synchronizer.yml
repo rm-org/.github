@@ -15,4 +15,3 @@ jobs:
     - uses: rmacklin/team-sync@v0.3.0
       with:
         repo-token: "${{ secrets.ORG_ADMIN_ACCESS_TOKEN }}"
-        prefix-teams-with: DevOps
