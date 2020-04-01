@@ -4,6 +4,15 @@
     "description": "first!!! team",
     "members": [
       {
+        "name": "Place Holder",
+        "github": "rmacklin-dev"
+      }
+    ]
+  },
+  "Bar Baz": {
+    "description": "The bazziest devops bar in the whole town",
+    "members": [
+      {
         "name": "Blah Blah",
         "github": "rmacklin"
       },
@@ -13,9 +22,13 @@
       }
     ]
   },
-  "Bar Baz": {
-    "description": "The bazziest devops bar in the whole town",
+  "Qux": {
+    "description": "we da best",
     "members": [
+      {
+        "name": "Blah Blah",
+        "github": "rmacklin"
+      },
       {
         "name": "Place Holder",
         "github": "rmacklin-dev"
