@@ -12,7 +12,8 @@
       }
     ]
   },
-  "Bar #Baz": {
+  "Bar Baz": {
+    "description": "The bazziest bar in the whole town",
     "members": [
       {
         "name": "Place Holder",
