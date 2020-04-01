@@ -1,6 +1,7 @@
 {
   "Foo": {
     "some": "metadata",
+    "description": "the foo team",
     "members": [
       {
         "name": "Blah Blah",
