@@ -3,6 +3,10 @@
     "some": "metadata",
     "members": [
       {
+        "name": "Blah Blah",
+        "github": "rmacklin"
+      },
+      {
         "name": "Place Holder",
         "github": "rmacklin-dev"
       }
@@ -11,10 +15,6 @@
   "Bar Baz": {
     "description": "The bazziest bar in the whole town",
     "members": [
-      {
-        "name": "Blah Blah",
-        "github": "rmacklin"
-      },
       {
         "name": "Place Holder",
         "github": "rmacklin-dev"
