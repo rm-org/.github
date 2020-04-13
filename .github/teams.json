@@ -37,7 +37,7 @@
   },
   "Hello": {
     "description": "ignored team",
-    "team_sync_ignored": false,
+    "team_sync_ignored": true,
     "members": [
       {
         "name": "Blah Blah",
