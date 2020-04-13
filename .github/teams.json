@@ -34,5 +34,19 @@
         "github": "rmacklin-dev"
       }
     ]
+  },
+  "Hello": {
+    "description": "ignored team",
+    "team_sync_ignored": false,
+    "members": [
+      {
+        "name": "Blah Blah",
+        "github": "rmacklin"
+      },
+      {
+        "name": "Place Holder",
+        "github": "rmacklin-dev"
+      }
+    ]
   }
 }
