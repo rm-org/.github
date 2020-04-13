@@ -12,6 +12,6 @@ jobs:
   synchronize-teams:
     runs-on: ubuntu-latest
     steps:
-    - uses: rmacklin/team-sync@v0.3.0
+    - uses: rmacklin/team-sync@6b48834e93f071688aa4a2b4dc56de1f20da2c95
       with:
         repo-token: "${{ secrets.ORG_ADMIN_ACCESS_TOKEN }}"
