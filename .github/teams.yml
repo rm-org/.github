@@ -1,24 +1,12 @@
-{
-  "Foo": {
-    "some": "metadata",
-    "description": "the foo team",
-    "members": [
-      {
-        "name": "Place Holder",
-        "github": "rmacklin-dev"
-      }
-    ]
-  },
-  "Bar Baz": {
-    "members": [
-      {
-        "name": "Blah Blah",
-        "github": "rmacklin"
-      },
-      {
-        "name": "Place Holder",
-        "github": "rmacklin-dev"
-      }
-    ]
-  }
-}
+Foo:
+  some: metadata
+  description: the foo team
+  members:
+  - name: Place Holder
+    github: rmacklin-dev
+Bar Baz:
+  members:
+  - name: Blah Blah
+    github: rmacklin
+  - name: Place Holder
+    github: rmacklin-dev
