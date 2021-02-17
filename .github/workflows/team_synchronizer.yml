@@ -10,7 +10,6 @@ jobs:
   synchronize-teams:
     runs-on: ubuntu-latest
     steps:
-    - uses: rmacklin/team-sync@v0.3.0
+    - uses: rmacklin/team-sync@ec3bae98fa20f24b534418b2c6a7d8c6f4f2a77e
       with:
         repo-token: "${{ secrets.ORG_ADMIN_ACCESS_TOKEN }}"
-        team-data-path: .github/teams.yml
