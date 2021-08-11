@@ -2,7 +2,7 @@ name: "Team Synchronizer"
 on:
   push:
     branches:
-      - master
+      - test-large-teams-config
     paths:
       - .github/teams.yml
 
@@ -10,6 +10,6 @@ jobs:
   synchronize-teams:
     runs-on: ubuntu-latest
     steps:
-    - uses: rmacklin/team-sync@ec3bae98fa20f24b534418b2c6a7d8c6f4f2a77e
+    - uses: rmacklin/team-sync@5617c3b5dd662e0b0b35f93bbf4cb46b416c7b0b
       with:
         repo-token: "${{ secrets.ORG_ADMIN_ACCESS_TOKEN }}"
